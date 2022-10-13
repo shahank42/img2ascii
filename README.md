@@ -2,7 +2,7 @@
 A program to render bitmap image files as ASCII characters.
 
 # Usage
-Download the latest version from the releases page.
+Download the latest version from the ![Releases page](https://github.com/shahank42/img2ascii/releases/tag/v0.1).
 Simply drag-and-drop the bitmap image file onto the executable file, and fill in the appropriate parameters.
 
 ![Demo](https://github.com/shahank42/img2ascii/blob/main/demos/demo-v0.1.gif?raw=true)
